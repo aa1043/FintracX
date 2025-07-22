@@ -29,7 +29,7 @@ FintrackX is a modern personal finance tracking web application that helps users
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/fintrackx.git
+git clone https://github.com/aa1043/FintracX.git
 cd fintrackx
 
 ## Backend Setup
