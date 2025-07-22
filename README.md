@@ -9,7 +9,7 @@ FintrackX is a modern personal finance tracking web application that helps users
 - 💰 **Income and Expense Tracking**
 - 📅 **Date-wise Grouping and Sorting**
 - 📈 **Bar and Line Charts** to visualize financial patterns
-- 📥 **CSV Export Support**
+- 📥 **Excel Download Support**
 - 🧾 **Recent Transactions Feed**
 - ⚙️ **Reusable UI Components**
 - 🎨 **Fully Responsive UI**
